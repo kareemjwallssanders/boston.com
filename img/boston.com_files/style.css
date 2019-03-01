@@ -1,0 +1,185 @@
+*{
+    box-sizing: border-box;
+  }
+
+  header{
+      height :70px;
+      width: 100%;
+      border: 2px solid red;
+      clear: both;
+      background:black;
+
+  }
+
+  footer{
+    height :70px;
+      width: 100%;
+      border: 2px solid red;
+      clear: both;
+    }
+  .navbarimgL{
+    background-image: url(../img/bostonlogo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    height: 65px;
+    width: 20%;
+    /* border: 2px solid blue; */
+    float: left;
+}
+
+.mainhead{
+
+    height :70px;
+      width: 100%;
+      border: 2px solid red;
+      float: left;
+
+}
+.redword{
+    color:red;
+}
+
+
+
+.topstories{
+    height: 150px;
+    width: 100%;
+    border: 2px solid purple;
+    float: left;
+    
+}
+
+
+
+h1{
+    
+    padding-top:325px;
+    height:50px;
+    width: 100%;
+    font-size: 20px;
+    border: 2px solid blue;
+
+
+}
+
+h2{
+    border-bottom: 2px solid black;
+    padding-top:90px;
+    width: 60%;
+}
+
+h3{
+
+    border-bottom: 2px solid black;
+}
+
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+
+
+.maincontainerstoriesL{
+    
+    display: block;
+    height: 750px;
+    width: 70%;
+    border: 2px solid black;
+    float: left;
+}
+
+.maincontainerstoriesR{
+    height: 750px;
+    width: 30%;
+    border: 2px solid red;
+    float: right;
+}
+
+.bottom{
+    height: 400px;
+    width:100%;
+    border: 2px solid green;
+    clear: both;
+    float: left;
+}
+
+.mainimg{ 
+    height:350px;
+    width:60%; 
+    border: 1px solid blue;
+    float:left;
+    background-image: url(../img/Belichick.jpg); 
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: center center;
+
+    
+}
+
+.listofstories{
+
+    height:750px;
+    width:40%; 
+    border: 1px solid red;
+    float: right;
+}
+
+nav li {
+    float: left;
+    list-style: none;
+    padding:0 2%;
+    color:white;
+    background:black;
+}
+
+.mainbottompics{
+
+    height:350px;
+    width:60%; 
+    border: 1px solid green;
+    float: left;
+    margin-top:44px;
+}
+.listofstories li{
+
+    margin-bottom: 70px;
+    list-style: none;
+}
+
+    .rightlist {
+        margin-bottom: 50px;
+
+    }
+
+    li{
+        margin-bottom: 18px;
+    }
+    
+    .btmpiL{
+
+       
+    }
+
+
+    .fabfa-twitter-square{
+        margin-bottom: 0px;
+
+    }
+    .fabfa-facebook{
+        margin-bottom: 0px;
+    }
+    .fasa-question-circle{
+        margin-bottom: 0px;
+    }
+
+
+
+
+
+
+
+
+
